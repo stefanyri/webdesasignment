@@ -1,0 +1,90 @@
+body{
+	background-image: url('thomas-vimare.jpg');
+	background-repeat:no-repeat;
+	background-position:left-bottom;
+	background-size:100% 100%;
+}
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	/*background-color::#E3F2FD;*/
+	text-align:center;
+	width: 100%;
+}
+li{
+	float:left;
+	font-size:20px;
+	width: 31%;
+}
+li a{
+	display:block;
+	color:white;
+	text-align:center;
+	padding: 10px 30px;
+	text-decoration:none;
+}
+li a:hover{
+	background-color:white;
+	color:#0277BD; /*color of taxt when you want to click the button*/
+}
+h1{
+	width:100%;
+	color:white;
+	font-family:Lato;
+	font-size:50px;
+	text-align:center;
+	text-shadow:1px 10px grey;
+}
+h2{
+	font-size:25px;
+	color:white;
+	text-align:center;
+	margin-top:80px;
+	font-family:Lato;	
+}
+table{
+	font-family:Lato;
+	border-collapse:collapse;
+	width:60%;
+	text-align:center;
+	margin-top:80px;
+}
+th{
+	font-size:20px;
+	text-align:left;
+	padding:8px;
+	background-color: #0277BD;
+}
+td{
+	font-size:15px;
+	text-align:left;
+	padding:8px;
+}
+tr:nth-child(odd){
+	background-color:#0277BD;
+}
+tr:nth-child(even){
+	background-color:#E3F2FD;
+}
+
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	text-align:center;
+	width:100%;
+	background-color:#E3F2FD; 
+	color:black;
+	
+}
+
+
+
+
+
+
+
+
+

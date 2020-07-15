@@ -1,0 +1,65 @@
+body{
+	background-image: url('conor-sexton.jpg');
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	margin:0;
+}
+.navbar{
+	font-family:Lato;
+	width:100%;
+	/*background-color:#E3F2FD;*/
+	overflow:auto;
+}
+.navbar a{
+	font-family:Lato;
+	float:left;
+	padding: 12px;
+	color: white;
+	text-decoration:none;
+	font-size:27px;
+	width:30%;
+	text-align:center;
+}
+.navbar a:hover{
+	background-color: #CFD8DC;
+}
+h1 {
+	color:white;
+	font-size:50px;
+	padding-top:5%;
+	padding-left:40%;
+	font-family:lato;
+	
+}
+h2 {
+	color:white;
+	font-size:30px;
+	padding-left:43%;
+	font-family:lato;
+}
+h3 {
+	color:white;
+	font-size:20px;
+	padding-left:44%;
+	font-family:lato;
+	
+}
+.footer {
+	position:fixed;
+	left:0;
+	bottom:0;
+	width: 100%;
+	color:white;
+	padding-left:47%;
+}
+
+
+
+
+
+
+
+
+
+
+
